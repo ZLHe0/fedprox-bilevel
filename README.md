@@ -1,6 +1,6 @@
-# Codebase for "The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency"
+# Codebase for "Understanding the Accuracy-Communication Trade-off in Personalized Federated Learning"
 
-This repository provides a PyTorch-based implementation of **FedProx-Bilevel**, which formulates the FedProx problem as a bilevel optimization problem and solves it using standard bilevel techniques. The repository accompanies the paper "The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency" and provides code to replicate the results discussed in the paper.
+This repository provides a PyTorch-based implementation of **FedProx-Bilevel**, which formulates the regularized PFL problem as a bilevel optimization problem and solves it using standard bilevel techniques. The repository accompanies the paper "Understanding the Accuracy-Communication Trade-off in Personalized Federated Learning" and provides code to replicate the results discussed in the paper.
 
 ## Folder Structure
 
